@@ -1,0 +1,17 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+
+	background-image: url("bg1.jpg");
+}
+
+#mc{
+
+	border: 5px dashed darkblue ;
+	background-color: rgb(255, 255, 255);
+
+}
